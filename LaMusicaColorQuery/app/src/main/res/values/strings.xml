@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">La Musica Query</string>
+    <string name="search">Change Color</string>
+    <string name="error_occurred_message">An error has occurred!</string>
+</resources>
